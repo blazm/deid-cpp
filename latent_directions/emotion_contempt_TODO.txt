@@ -1,0 +1,5 @@
+https://github.com/Puzer/stylegan-encoder/blob/master/Learn_direction_in_latent_space.ipynb
+
+https://github.com/EvgenyKashin/stylegan2-distillation
+
+Paper: StyleGAN2 Distillation for Feed-forward Image Manipulation
